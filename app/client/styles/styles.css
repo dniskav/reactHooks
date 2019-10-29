@@ -1,0 +1,8 @@
+.publication {
+    border-width: 2px;
+}
+
+.publication.elementDragStart {
+    border-color: salmon;
+    border-style: dashed;
+};
